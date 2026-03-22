@@ -1,4 +1,4 @@
-# Hi, I'm Sathvik Ganti 👋
+# Hi, I'm G. Sathvik 👋
 
 B.Tech ECE student at Vignana Bharathi Institute of Technology (JNTUH), 
 passionate about Robotics, Computer Vision, and Edge AI on Embedded Systems.
