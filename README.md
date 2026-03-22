@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Sathvik Ganti 👋
 
-<!--
-**Sathvik12004/Sathvik12004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech ECE student at Vignana Bharathi Institute of Technology (JNTUH), 
+passionate about Robotics, Computer Vision, and Edge AI on Embedded Systems.
 
-Here are some ideas to get you started:
+## 🔬 Research & Publications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Vocal Lens** — First Author | IEEE ICECIT 2026
+> A real-time assistive vision system for visually impaired individuals 
+> using YOLOv8, Raspberry Pi 5, ESP32-CAM, and ultrasonic sensors.
+> Accepted & Presented at IEEE ICECIT 2026 — Awaiting IEEE Xplore Indexing.
+
+## 🛠️ Skills
+
+**Languages:** Python, C, JavaScript  
+**Robotics:** ROS2, Gazebo, ArduPilot, MAVLink  
+**Computer Vision:** OpenCV, YOLOv8, TensorFlow, scikit-learn  
+**Embedded:** Raspberry Pi, Arduino, ESP32  
+**Tools:** Linux, Docker, FastAPI, Git  
+
+## 🚀 Current Projects
+
+**ArduPilot AI Log Diagnosis** — GSoC 2026 Proposal  
+> AI-assisted flight log analysis tool using Isolation Forest ML model.
+> Automatically detects anomalies and generates root-cause diagnosis reports.
+> [View Project →](https://github.com/Sathvik12004/ardupilot-log-diagnosis)
+
+**Vocal Lens** — IEEE Published  
+> Real-time object detection and navigation assistance for visually impaired.
+> [View Project →](https://github.com/Sathvik12004/object-detection-and-navigation)
+
+## 🎯 Interests
+
+- Assistive Robotics & Human-Robot Interaction
+- Autonomous Navigation & Robot Perception
+- Edge AI & Embedded Systems
+- Computer Vision & Deep Learning
+
+## 📫 Connect
+
+- **Email:** gantisathvik004@gmail.com
+- **Location:** Hyderabad, India
+
+---
+⭐ Chairperson — Robotics Club, VBIT
